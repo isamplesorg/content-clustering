@@ -6,7 +6,7 @@ Experimenting with clustering methods on different collections.
 
 (2) 2nd round of experiments with 100% of data for **each** sample collection are in their respective folder: SESAR, OPENCONTEXT, etc. Data are not pushed to the repo due to the size limit. Download data from https://mars.cyverse.org/data_dumps/GEOME.txt.zip [replace GEOME with other relevant collection name to get the data set). Download, unzip, and put the .txt file in the appropriate folder according to the jupyter file before executing the notebook (see also below to get cc.en.300.bin). 
 
-
+(3) Terminology mining uses 100% source collection dataset. User can select the needed  fields from various source collections to mine term groups. 
 
 
 **NOTE**: 
