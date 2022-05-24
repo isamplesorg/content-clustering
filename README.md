@@ -16,3 +16,4 @@ cc.en.300.bin used in the notebooks can be downloaded to your local with
 wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz
 ```
 
+If 'pip install fasttext' give you errors, the chance is that you need to first pip intall a fasttext whl that matches your python version. Find you matching whl file (e.g. fasttext-0.9.2-cp39-cp39-win_amd64.whl) from https://www.lfd.uci.edu/~gohlke/pythonlibs/#fasttext
